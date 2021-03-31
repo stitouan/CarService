@@ -1,0 +1,13 @@
+package com.example.frontwebservice;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class FrontwebserviceApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(FrontwebserviceApplication.class, args);
+	}
+
+}
